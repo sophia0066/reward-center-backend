@@ -1,7 +1,6 @@
 package com.app.rewardscenterbackend.entity;
 
 import com.google.cloud.firestore.annotation.DocumentId;
-
 import java.util.Date;
 import java.util.Objects;
 
