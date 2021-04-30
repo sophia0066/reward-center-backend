@@ -1,7 +1,6 @@
 package com.app.rewardscenterbackend.entity;
 
 import com.google.cloud.firestore.annotation.DocumentId;
-
 import java.util.Objects;
 
 public class User {

@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RewardsCenterBackendApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RewardsCenterBackendApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(RewardsCenterBackendApplication.class, args);
+    }
 
 }
